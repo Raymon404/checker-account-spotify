@@ -1,6 +1,6 @@
 # Spotify-Account-Checker
 
-<h3> tq tu cker nya</h3>
+
            ####################################    
            ####################################    
            #######                      #######    
@@ -20,8 +20,7 @@
               Spotify Check- V0.1 NakoCoders             
            ------------------------------------  
            
-<pre>
-        Usage: bash cek.sh
+Usage: bash cek.sh
 
 
 Delimeter list:
@@ -43,6 +42,4 @@ Delimeter list:
     -b, --Detect Expired!
     
     -a, --Type, Accounts!
-	
-	+++++++++++recod by: Ray+++++++++++++
-</pre>
+            
